@@ -1,5 +1,4 @@
-import ComponentBase from 'src/componentBase';
-import { createRandomId } from 'src/helpers';
+import ComponentBase from '../../componentBase';
 import { AlertConstructorOptions } from './models';
 
 class Alert extends ComponentBase {

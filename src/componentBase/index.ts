@@ -1,4 +1,4 @@
-import { createRandomId } from 'src/helpers';
+import { createRandomId } from '../helpers';
 import { BaseComponentConstructorOptions } from './models';
 
 class ComponentBase {
